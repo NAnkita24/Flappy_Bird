@@ -19,7 +19,6 @@ let bird = {
 };
 
 //pipe
-
 let pipeArray = [];
 let pipewidth = 64;
 let pipeheight = 512;
